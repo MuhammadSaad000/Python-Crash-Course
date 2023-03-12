@@ -10,7 +10,7 @@ The day-1 of Python crash course includes :
 - Typecasting 
 - Operators in python 
 
-Below links regarding [day-1]("https://github.com/MuhammadSaad000/Python-Crash-Course/blob/main/day-1/day-1.ipynb") can be helpful : 
+Below links regarding [day-1](https://github.com/MuhammadSaad000/Python-Crash-Course/blob/main/day-1/day-1.ipynb) can be helpful : 
 - Learn about Indentation in Python  
   https://www.geeksforgeeks.org/indentation-in-python/
 - Conditionals in Python
