@@ -1,4 +1,4 @@
 New line added to the file
 New line added to the file
 Another line added 
-This is the appended lineThis is the appended line
+This is the appended lineThis is line
