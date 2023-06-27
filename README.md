@@ -3,7 +3,7 @@
 
 # Learn [PYTHON](https://www.python.org) in 7-days 
 
-<center># Table of Contents<center>
+# <center>Table of Contents
 
 
 
